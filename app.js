@@ -220,10 +220,10 @@ contactForm.addEventListener('submit', (e) => {
     // Reset form
     contactForm.reset();
     
-    // Hide success message after 3 seconds
+    // Hide success message after 3.5 seconds
     setTimeout(() => {
       successMessage.classList.remove('show');
-    }, 3000);
+    }, 3500);
   }
 });
 
