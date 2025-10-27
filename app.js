@@ -1,45 +1,45 @@
 // Project Data
 const projects = [
   {
-    title: 'E-Commerce Platform',
-    description: 'A full-featured online shopping platform with cart, checkout, and payment integration',
-    detailedDescription: 'A comprehensive e-commerce solution built with modern technologies. Features include user authentication, product catalog with search and filters, shopping cart functionality, secure checkout process, payment integration with Stripe, order management, and an admin dashboard for managing products and orders.',
-    technologies: ['React', 'Node.js', 'MongoDB', 'Stripe'],
+    title: 'Project 1',
+    description: '...',
+    detailedDescription: '...',
+    technologies: ['...', '...', '...', '...'],
     imageColor: '#4A90E2'
   },
   {
-    title: 'Task Management App',
-    description: 'Collaborative project management tool with real-time updates and team features',
-    detailedDescription: 'A powerful task management application designed for teams. Includes features like task creation and assignment, real-time collaboration, drag-and-drop task boards, deadline tracking, team member management, activity logs, and notifications. Built with Vue.js and Firebase for real-time synchronization.',
-    technologies: ['Vue.js', 'Firebase', 'Tailwind CSS'],
+    title: 'Project 2',
+    description: '...',
+    detailedDescription: '...',
+    technologies: ['...', '...', '...'],
     imageColor: '#7B68EE'
   },
   {
-    title: 'Analytics Dashboard',
-    description: 'Data visualization dashboard for business metrics and KPI tracking',
-    detailedDescription: 'An interactive analytics dashboard for visualizing business data. Features multiple chart types, customizable widgets, real-time data updates, export functionality, and responsive design. Integrates with various data sources and provides insights through advanced data visualization using D3.js.',
-    technologies: ['React', 'D3.js', 'Express', 'PostgreSQL'],
+    title: 'Project 3',
+    description: '...',
+    detailedDescription: '...',
+    technologies: ['...', '...', '...', '...'],
     imageColor: '#50C878'
   },
   {
-    title: 'Mobile Fitness App',
-    description: 'Cross-platform fitness tracking app with workout plans and progress monitoring',
-    detailedDescription: 'A comprehensive fitness application for iOS and Android. Includes personalized workout plans, exercise library with video demonstrations, progress tracking with charts, calorie counter, water intake tracking, social features for motivation, and integration with health data platforms.',
-    technologies: ['React Native', 'Redux', 'GraphQL'],
+    title: 'Project 4',
+    description: '...',
+    detailedDescription: '...',
+    technologies: ['...', '...', '...'],
     imageColor: '#FF6B6B'
   },
   {
-    title: 'Blog Platform',
-    description: 'Modern blogging platform with markdown support and content management',
-    detailedDescription: 'A sleek blogging platform with a focus on writing experience. Features include markdown editor with live preview, SEO optimization, image management, comment system, tag-based organization, RSS feed, and responsive design. Built with Next.js for optimal performance and SEO.',
-    technologies: ['Next.js', 'Prisma', 'Vercel'],
+    title: 'Project 5',
+    description: '...',
+    detailedDescription: '...',
+    technologies: ['...', '...', '...'],
     imageColor: '#F39C12'
   },
   {
-    title: 'Weather Forecast App',
-    description: 'Real-time weather application with location services and 7-day forecasts',
-    detailedDescription: 'A beautiful weather application providing accurate forecasts. Features include current weather conditions, hourly and 7-day forecasts, location-based weather, weather maps, severe weather alerts, and multiple location support. Uses Weather API for reliable data and includes animated weather icons.',
-    technologies: ['JavaScript', 'Weather API', 'CSS Grid'],
+    title: 'Project 6',
+    description: '...',
+    detailedDescription: '...',
+    technologies: ['...', '...', '...'],
     imageColor: '#3498DB'
   }
 ];
