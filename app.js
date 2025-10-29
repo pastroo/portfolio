@@ -5,42 +5,42 @@ const projects = [
     description: '...',
     detailedDescription: '...',
     technologies: ['...', '...', '...', '...'],
-    imageColor: '#4A90E2'
+    imageColor: '#639ad9ff'
   },
   {
     title: 'Project 2',
     description: '...',
     detailedDescription: '...',
     technologies: ['...', '...', '...'],
-    imageColor: '#7B68EE'
+    imageColor: '#7f70d2ff'
   },
   {
     title: 'Project 3',
     description: '...',
     detailedDescription: '...',
     technologies: ['...', '...', '...', '...'],
-    imageColor: '#50C878'
+    imageColor: '#4aae6cff'
   },
   {
     title: 'Project 4',
     description: '...',
     detailedDescription: '...',
     technologies: ['...', '...', '...'],
-    imageColor: '#FF6B6B'
+    imageColor: '#d35d5dff'
   },
   {
     title: 'Project 5',
     description: '...',
     detailedDescription: '...',
     technologies: ['...', '...', '...'],
-    imageColor: '#F39C12'
+    imageColor: '#e3aa4fff'
   },
   {
     title: 'Project 6',
     description: '...',
     detailedDescription: '...',
     technologies: ['...', '...', '...'],
-    imageColor: '#3498DB'
+    imageColor: '#377ba8ff'
   }
 ];
 
